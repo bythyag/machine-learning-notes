@@ -4,7 +4,6 @@ i asked claude and chatgpt to generate me a course plan which i can follow to le
 
 ## build core understanding of statistical learning, optimization, and supervised/unsupervised paradigms.
 ### core concepts & mathematics
-```
 * ml paradigms:
     * supervised vs unsupervised learning
     * regression vs classification
@@ -14,7 +13,6 @@ i asked claude and chatgpt to generate me a course plan which i can follow to le
     * linear algebra: vectors, matrices, eigenvalues, svd
     * calculus: derivatives, gradients, chain rule
     * probability & stats: distributions, bayes theorem, confidence intervals
-```
 ### algorithms & evaluation
 * algorithms:
     * linear/logistic regression
