@@ -1,4 +1,4 @@
-# machine learning notes
+# machine learning notes 
 
 i asked claude and chatgpt to generate me a course plan which i can follow to learn llms. the aim is to start from machine learning fundamentals and build upto large language models. the topics which i aim to cover (not exhaustive and will be updated over time):
 
