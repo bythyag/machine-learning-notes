@@ -26,7 +26,8 @@ i asked claude and chatgpt to generate me a course plan which i can follow to le
     * numpy, pandas, matplotlib
     * scikit-learn basics
     * jupyter/vscode  
-project 1: build full ml pipeline (classification/regression) using scikit-learn.
+### project 1: 
+* build full ml pipeline (classification/regression) using scikit-learn.
 
 ## understand neural networks, backpropagation, optimization, and deep architectures.
 ### neural network fundamentals
@@ -49,7 +50,7 @@ project 1: build full ml pipeline (classification/regression) using scikit-learn
 * lstm, gru, bidirectional rnns
 * applications: text classification, sequence-to-sequence
 * intro to attention (prelude to transformers)  
-project 2:
+### project 2:
 * cnn on cifar-10
 * lstm on text sentiment classification (imdb or sst-2)
 
@@ -72,9 +73,9 @@ project 2:
     * bert: mlm, nsp
     * gpt: causal lm
     * t5/bart: sequence-to-sequence tasks  
-project 3:  
-implement basic transformer from scratch (translation task).  
-fine-tune bert/gpt-2 on classification dataset.
+### project 3:  
+* implement basic transformer from scratch (translation task).
+* fine-tune bert/gpt-2 on classification dataset.
 
 ## acquire implementation-level understanding of llm scaling, training, finetuning, and inference.
 ### pretraining pipeline
@@ -96,7 +97,7 @@ fine-tune bert/gpt-2 on classification dataset.
 * distillation & speculative decoding
 * serving: huggingface + accelerate, vllm, onnx, tensorrt
 * api design, safety filtering, monitoring  
-project 4:
+### project 4:
 * fine-tune llama/flan-t5 using lora on a domain-specific dataset
 * deploy with basic inference api
 
